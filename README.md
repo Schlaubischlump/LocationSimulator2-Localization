@@ -1,3 +1,6 @@
+> [!WARNING]
+> For now most localizations are AI generated. Please help clean them up before LocationSimulator2 is released. Otherwise, I might remove them before I submit the app, since I do not trust them to be correct.
+
 # Localization
 
 These are the official localization files for LocationSimulator. Feel free to fork the project and contribute to an existing language or create a new one. The easiest way to edit these files is by using [LocalizationEditor](https://github.com/igorkulman/iOSLocalizationEditor). Just click on the release link on the right sidebar and download the latest release. To contribute a new language follow these steps: 
