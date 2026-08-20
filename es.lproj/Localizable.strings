@@ -49,6 +49,8 @@
 "DEVELOPER_DISK_IMAGE" = "Imagen de disco de desarrollador";
 "DEVELOPER_IMAGES" = "Imágenes de desarrollo";
 "DEVICES" = "Dispositivos";
+"DETECT_WIFI_DEVICES" = "Detectar dispositivos por Wi-Fi";
+"DETECT_WIFI_DEVICES_FOOTER" = "Muestra los dispositivos emparejados detectados por Wi-Fi cuando no están conectados por USB.";
 "DEVICE_PAIRED" = "El dispositivo se ha emparejado correctamente.";
 "DEVICE_SETUP" = "Configuración del dispositivo";
 "DEVMODE_RESTARTING" = "El dispositivo se está reiniciando. Vuelve a conectarlo y solicita la confirmación.";

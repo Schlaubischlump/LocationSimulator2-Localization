@@ -49,6 +49,8 @@
 "DEVELOPER_DISK_IMAGE" = "开发者磁盘映像";
 "DEVELOPER_IMAGES" = "开发者映像";
 "DEVICES" = "设备";
+"DETECT_WIFI_DEVICES" = "检测 Wi-Fi 设备";
+"DETECT_WIFI_DEVICES_FOOTER" = "显示通过 Wi-Fi 检测到且未通过 USB 连接的已配对设备。";
 "DEVICE_PAIRED" = "设备已成功配对。";
 "DEVICE_SETUP" = "设备设置";
 "DEVMODE_RESTARTING" = "设备正在重新启动。请重新连接设备，然后请求确认。";

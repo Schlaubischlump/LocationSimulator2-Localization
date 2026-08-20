@@ -49,6 +49,8 @@
 "DEVELOPER_DISK_IMAGE" = "Developer Disk Image";
 "DEVELOPER_IMAGES" = "Developer Images";
 "DEVICES" = "Devices";
+"DETECT_WIFI_DEVICES" = "Detect Wi-Fi Devices";
+"DETECT_WIFI_DEVICES_FOOTER" = "Show paired devices discovered over Wi-Fi when they are not connected over USB.";
 "DEVICE_PAIRED" = "The device was paired successfully.";
 "DEVICE_SETUP" = "Device Setup";
 "DEVMODE_RESTARTING" = "The device is restarting. Reconnect it, then request confirmation.";

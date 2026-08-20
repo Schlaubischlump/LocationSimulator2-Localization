@@ -49,6 +49,8 @@
 "DEVELOPER_DISK_IMAGE" = "Utvecklaravbildning";
 "DEVELOPER_IMAGES" = "Utvecklaravbildningar";
 "DEVICES" = "Enheter";
+"DETECT_WIFI_DEVICES" = "Upptäck enheter via Wi-Fi";
+"DETECT_WIFI_DEVICES_FOOTER" = "Visar parkopplade enheter som upptäcks via Wi-Fi när de inte är anslutna via USB.";
 "DEVICE_PAIRED" = "Enheten parkopplades.";
 "DEVICE_SETUP" = "Enhetskonfiguration";
 "DEVMODE_RESTARTING" = "Enheten startar om. Anslut den igen och begär sedan bekräftelse.";

@@ -49,6 +49,8 @@
 "DEVELOPER_DISK_IMAGE" = "Image disque développeur";
 "DEVELOPER_IMAGES" = "Images développeur";
 "DEVICES" = "Appareils";
+"DETECT_WIFI_DEVICES" = "Détecter les appareils en Wi-Fi";
+"DETECT_WIFI_DEVICES_FOOTER" = "Affiche les appareils jumelés détectés en Wi-Fi lorsqu’ils ne sont pas connectés en USB.";
 "DEVICE_PAIRED" = "L’appareil a été jumelé avec succès.";
 "DEVICE_SETUP" = "Configuration de l’appareil";
 "DEVMODE_RESTARTING" = "L’appareil redémarre. Reconnectez-le, puis demandez la confirmation.";

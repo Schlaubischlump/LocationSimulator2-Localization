@@ -49,6 +49,8 @@
 "DEVELOPER_DISK_IMAGE" = "Ontwikkelaarsimage";
 "DEVELOPER_IMAGES" = "Ontwikkelaarsimages";
 "DEVICES" = "Apparaten";
+"DETECT_WIFI_DEVICES" = "Wifi-apparaten detecteren";
+"DETECT_WIFI_DEVICES_FOOTER" = "Toont gekoppelde apparaten die via wifi zijn gevonden wanneer ze niet via USB zijn verbonden.";
 "DEVICE_PAIRED" = "Het apparaat is gekoppeld.";
 "DEVICE_SETUP" = "Apparaatconfiguratie";
 "DEVMODE_RESTARTING" = "Het apparaat wordt opnieuw opgestart. Verbind het daarna opnieuw en vraag bevestiging aan.";

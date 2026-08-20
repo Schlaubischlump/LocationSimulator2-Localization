@@ -49,6 +49,8 @@
 "DEVELOPER_DISK_IMAGE" = "開發者磁碟映像檔";
 "DEVELOPER_IMAGES" = "開發者映像檔";
 "DEVICES" = "裝置";
+"DETECT_WIFI_DEVICES" = "偵測 Wi-Fi 裝置";
+"DETECT_WIFI_DEVICES_FOOTER" = "顯示透過 Wi-Fi 偵測到且未透過 USB 連接的已配對裝置。";
 "DEVICE_PAIRED" = "裝置已成功配對。";
 "DEVICE_SETUP" = "裝置設定";
 "DEVMODE_RESTARTING" = "裝置正在重新啟動。請重新連接裝置，然後要求確認。";

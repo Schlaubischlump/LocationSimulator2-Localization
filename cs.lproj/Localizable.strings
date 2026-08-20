@@ -48,6 +48,8 @@
 "DEVELOPER_DISK_IMAGE" = "Vývojářský obraz disku";
 "DEVELOPER_IMAGES" = "Vývojářské obrazy";
 "DEVICES" = "Zařízení";
+"DETECT_WIFI_DEVICES" = "Rozpoznávat zařízení přes Wi-Fi";
+"DETECT_WIFI_DEVICES_FOOTER" = "Zobrazí spárovaná zařízení nalezená přes Wi-Fi, pokud nejsou připojena přes USB.";
 "DEVICE_PAIRED" = "Zařízení bylo úspěšně spárováno.";
 "DEVICE_SETUP" = "Nastavení zařízení";
 "DEVMODE_RESTARTING" = "Zařízení se restartuje. Znovu je připojte a poté vyžádejte potvrzení.";

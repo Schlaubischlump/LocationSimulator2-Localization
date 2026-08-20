@@ -54,6 +54,8 @@
 "DEVELOPER_DISK_IMAGE" = "Entwickler-Image";
 "DEVELOPER_IMAGES" = "Entwickler-Images";
 "DEVICES" = "Geräte";
+"DETECT_WIFI_DEVICES" = "WLAN-Geräte erkennen";
+"DETECT_WIFI_DEVICES_FOOTER" = "Zeigt gekoppelte Geräte an, die über WLAN gefunden wurden, wenn sie nicht über USB verbunden sind.";
 "DEVICE_PAIRED" = "Das Gerät wurde erfolgreich gekoppelt.";
 "DEVICE_SETUP" = "Geräteeinrichtung";
 "DEVMODE_RESTARTING" = "Das Gerät wird neu gestartet. Verbinde es anschließend erneut und fordere dann die Bestätigung an.";
