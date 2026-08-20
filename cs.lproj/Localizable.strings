@@ -74,6 +74,10 @@
 "FOCUS_MAP" = "Vycentrovat mapu";
 "FOCUS_LOCATION" = "Zaměřit polohu";
 "FOCUS_SIMULATED" = "Zaměřit simulovanou polohu";
+"FORGET" = "Zapomenout";
+"FORGET_PAIRING" = "Zapomenout párování…";
+"FORGET_PAIRING_TITLE" = "Zapomenout párování zařízení?";
+"FORGET_PAIRING_MESSAGE" = "Aplikace se pokusí zrušit toto párování v zařízení a poté odstraní místní přihlašovací údaje. Chcete-li zařízení znovu spárovat, připojte je přes USB a odemkněte.";
 "FINANCIAL_SUPPORT" = "Finanční podpora";
 "GENERAL" = "Obecné";
 "GPS_UNCERTAINTY_FAILED" = "Aktualizace nepřesnosti GPS byly zastaveny: %@";
@@ -145,6 +149,8 @@
 "OPERATING_SYSTEM" = "Operační systém";
 "PAIR" = "Spárovat";
 "PAIRING" = "Párování";
+"PAIRING_FORGOTTEN_LOCALLY" = "Párování zapomenuto pouze místně";
+"PAIRING_FORGOTTEN_LOCALLY_MESSAGE" = "Místní údaje o párování byly odstraněny, ale zařízení se nepodařilo kontaktovat a zrušit v něm uloženou důvěru.";
 "PAIRING_RESTORED" = "Uložený záznam párování byl obnoven.";
 "PAIR_CODE_MESSAGE" = "Zadejte šestimístný kód zobrazený aplikací LocationSpoofer.";
 "PAIR_DEVICE" = "Spárovat nebo obnovit párování";

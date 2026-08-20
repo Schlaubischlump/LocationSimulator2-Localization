@@ -75,6 +75,10 @@
 "FOCUS_MAP" = "Centrera kartan";
 "FOCUS_LOCATION" = "Fokusera plats";
 "FOCUS_SIMULATED" = "Fokusera simulerad plats";
+"FORGET" = "Glöm";
+"FORGET_PAIRING" = "Glöm parkoppling…";
+"FORGET_PAIRING_TITLE" = "Glöm parkopplingen med enheten?";
+"FORGET_PAIRING_MESSAGE" = "Appen försöker återkalla parkopplingen på enheten och tar sedan bort de lokala parkopplingsuppgifterna. Anslut enheten via USB och lås upp den för att parkoppla igen.";
 "FINANCIAL_SUPPORT" = "Ekonomiskt stöd";
 "GENERAL" = "Allmänt";
 "GPS_UNCERTAINTY_FAILED" = "Uppdateringar av GPS-osäkerhet stoppades: %@";
@@ -146,6 +150,8 @@
 "OPERATING_SYSTEM" = "Operativsystem";
 "PAIR" = "Parkoppla";
 "PAIRING" = "Parkoppling";
+"PAIRING_FORGOTTEN_LOCALLY" = "Parkoppling glömd lokalt";
+"PAIRING_FORGOTTEN_LOCALLY_MESSAGE" = "De lokala parkopplingsuppgifterna togs bort, men enheten kunde inte kontaktas för att återkalla det sparade förtroendet.";
 "PAIRING_RESTORED" = "Den sparade parkopplingsposten återställdes.";
 "PAIR_CODE_MESSAGE" = "Ange den sexsiffriga koden som visas av LocationSpoofer.";
 "PAIR_DEVICE" = "Parkoppla eller återställ parkoppling";

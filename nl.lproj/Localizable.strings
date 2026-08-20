@@ -75,6 +75,10 @@
 "FOCUS_MAP" = "Kaart centreren";
 "FOCUS_LOCATION" = "Focus op locatie";
 "FOCUS_SIMULATED" = "Focus op gesimuleerde locatie";
+"FORGET" = "Vergeet";
+"FORGET_PAIRING" = "Koppeling vergeten…";
+"FORGET_PAIRING_TITLE" = "Koppeling met apparaat vergeten?";
+"FORGET_PAIRING_MESSAGE" = "De app probeert deze koppeling op het apparaat in te trekken en verwijdert daarna de lokale koppelingsgegevens. Sluit het apparaat via USB aan en ontgrendel het om opnieuw te koppelen.";
 "FINANCIAL_SUPPORT" = "Financiële ondersteuning";
 "GENERAL" = "Algemeen";
 "GPS_UNCERTAINTY_FAILED" = "Updates voor GPS-onnauwkeurigheid zijn gestopt: %@";
@@ -146,6 +150,8 @@
 "OPERATING_SYSTEM" = "Besturingssysteem";
 "PAIR" = "Koppel";
 "PAIRING" = "Koppeling";
+"PAIRING_FORGOTTEN_LOCALLY" = "Koppeling lokaal vergeten";
+"PAIRING_FORGOTTEN_LOCALLY_MESSAGE" = "De lokale koppelingsgegevens zijn verwijderd, maar er kon geen contact met het apparaat worden gemaakt om de opgeslagen vertrouwensrelatie in te trekken.";
 "PAIRING_RESTORED" = "De opgeslagen koppelingsgegevens zijn hersteld.";
 "PAIR_CODE_MESSAGE" = "Voer de zescijferige code in die LocationSpoofer toont.";
 "PAIR_DEVICE" = "Koppel of herstel koppeling";

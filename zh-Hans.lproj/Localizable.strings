@@ -75,6 +75,10 @@
 "FOCUS_MAP" = "将地图居中";
 "FOCUS_LOCATION" = "聚焦位置";
 "FOCUS_SIMULATED" = "聚焦模拟位置";
+"FORGET" = "忘记";
+"FORGET_PAIRING" = "忘记配对…";
+"FORGET_PAIRING_TITLE" = "忘记设备配对？";
+"FORGET_PAIRING_MESSAGE" = "App 将尝试撤销设备上的此次配对，然后移除本地凭据。若要重新配对，请通过 USB 连接并解锁设备。";
 "FINANCIAL_SUPPORT" = "资金支持";
 "GENERAL" = "通用";
 "GPS_UNCERTAINTY_FAILED" = "GPS 不确定性更新已停止：%@";
@@ -146,6 +150,8 @@
 "OPERATING_SYSTEM" = "操作系统";
 "PAIR" = "配对";
 "PAIRING" = "配对";
+"PAIRING_FORGOTTEN_LOCALLY" = "已在本地忘记配对";
+"PAIRING_FORGOTTEN_LOCALLY_MESSAGE" = "本地配对凭据已移除，但无法联系设备以撤销其中存储的信任关系。";
 "PAIRING_RESTORED" = "已恢复保存的配对记录。";
 "PAIR_CODE_MESSAGE" = "输入 LocationSpoofer 显示的六位数代码。";
 "PAIR_DEVICE" = "配对或恢复配对";

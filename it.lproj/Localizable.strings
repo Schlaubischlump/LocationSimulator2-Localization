@@ -75,6 +75,10 @@
 "FOCUS_MAP" = "Centra la mappa";
 "FOCUS_LOCATION" = "Centra sulla posizione";
 "FOCUS_SIMULATED" = "Centra sulla posizione simulata";
+"FORGET" = "Dimentica";
+"FORGET_PAIRING" = "Dimentica abbinamento…";
+"FORGET_PAIRING_TITLE" = "Dimenticare l’abbinamento del dispositivo?";
+"FORGET_PAIRING_MESSAGE" = "L’app tenterà di revocare questo abbinamento sul dispositivo, quindi rimuoverà le credenziali locali. Per abbinarlo di nuovo, collegalo tramite USB e sbloccalo.";
 "FINANCIAL_SUPPORT" = "Sostegno finanziario";
 "GENERAL" = "Generali";
 "GPS_UNCERTAINTY_FAILED" = "Gli aggiornamenti dell’incertezza GPS sono stati interrotti: %@";
@@ -146,6 +150,8 @@
 "OPERATING_SYSTEM" = "Sistema operativo";
 "PAIR" = "Abbina";
 "PAIRING" = "Abbinamento";
+"PAIRING_FORGOTTEN_LOCALLY" = "Abbinamento dimenticato localmente";
+"PAIRING_FORGOTTEN_LOCALLY_MESSAGE" = "Le credenziali di abbinamento locali sono state rimosse, ma non è stato possibile contattare il dispositivo per revocare l’autorizzazione memorizzata.";
 "PAIRING_RESTORED" = "Il record di abbinamento salvato è stato ripristinato.";
 "PAIR_CODE_MESSAGE" = "Inserisci il codice a sei cifre mostrato da LocationSpoofer.";
 "PAIR_DEVICE" = "Abbina o ripristina abbinamento";

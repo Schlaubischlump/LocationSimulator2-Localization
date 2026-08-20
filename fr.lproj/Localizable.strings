@@ -75,6 +75,10 @@
 "FOCUS_MAP" = "Centrer la carte";
 "FOCUS_LOCATION" = "Centrer sur la position";
 "FOCUS_SIMULATED" = "Centrer sur la position simulée";
+"FORGET" = "Oublier";
+"FORGET_PAIRING" = "Oublier le jumelage…";
+"FORGET_PAIRING_TITLE" = "Oublier le jumelage de l’appareil ?";
+"FORGET_PAIRING_MESSAGE" = "L’app tentera de révoquer ce jumelage sur l’appareil, puis supprimera ses identifiants locaux. Pour le jumeler à nouveau, connectez-le en USB et déverrouillez-le.";
 "FINANCIAL_SUPPORT" = "Soutien financier";
 "GENERAL" = "Général";
 "GPS_UNCERTAINTY_FAILED" = "Les mises à jour de l’incertitude GPS se sont arrêtées : %@";
@@ -146,6 +150,8 @@
 "OPERATING_SYSTEM" = "Système d’exploitation";
 "PAIR" = "Jumeler";
 "PAIRING" = "Jumelage";
+"PAIRING_FORGOTTEN_LOCALLY" = "Jumelage oublié localement";
+"PAIRING_FORGOTTEN_LOCALLY_MESSAGE" = "Les identifiants de jumelage locaux ont été supprimés, mais l’appareil n’a pas pu être contacté pour révoquer la relation de confiance enregistrée.";
 "PAIRING_RESTORED" = "L’enregistrement de jumelage sauvegardé a été restauré.";
 "PAIR_CODE_MESSAGE" = "Saisissez le code à six chiffres affiché par LocationSpoofer.";
 "PAIR_DEVICE" = "Jumeler ou restaurer le jumelage";

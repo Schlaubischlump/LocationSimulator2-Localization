@@ -75,6 +75,10 @@
 "FOCUS_LOCATION" = "Focus Location";
 "FOCUS_MAP" = "Focus Map";
 "FOCUS_SIMULATED" = "Focus Simulated Location";
+"FORGET" = "Forget";
+"FORGET_PAIRING" = "Forget Pairing…";
+"FORGET_PAIRING_TITLE" = "Forget Device Pairing?";
+"FORGET_PAIRING_MESSAGE" = "The app will try to revoke this pairing on the device, then remove its local credentials. To pair again, connect the device over USB and unlock it.";
 "FINANCIAL_SUPPORT" = "Financial Support";
 "GENERAL" = "General";
 "GPS_UNCERTAINTY_FAILED" = "GPS uncertainty updates stopped: %@";
@@ -146,6 +150,8 @@
 "OPERATING_SYSTEM" = "Operating System";
 "PAIR" = "Pair";
 "PAIRING" = "Pairing";
+"PAIRING_FORGOTTEN_LOCALLY" = "Pairing Forgotten Locally";
+"PAIRING_FORGOTTEN_LOCALLY_MESSAGE" = "The local pairing credentials were removed, but the device could not be contacted to revoke its stored trust.";
 "PAIRING_RESTORED" = "The saved pairing record was restored.";
 "PAIR_CODE_MESSAGE" = "Enter the six-digit code shown by LocationSpoofer.";
 "PAIR_DEVICE" = "Pair or Restore Pairing";

@@ -75,6 +75,10 @@
 "FOCUS_MAP" = "Centrar mapa";
 "FOCUS_LOCATION" = "Centrar en la ubicación";
 "FOCUS_SIMULATED" = "Centrar en la ubicación simulada";
+"FORGET" = "Olvidar";
+"FORGET_PAIRING" = "Olvidar emparejamiento…";
+"FORGET_PAIRING_TITLE" = "¿Olvidar el emparejamiento del dispositivo?";
+"FORGET_PAIRING_MESSAGE" = "La app intentará revocar este emparejamiento en el dispositivo y después eliminará sus credenciales locales. Para volver a emparejarlo, conéctalo por USB y desbloquéalo.";
 "FINANCIAL_SUPPORT" = "Apoyo financiero";
 "GENERAL" = "General";
 "GPS_UNCERTAINTY_FAILED" = "Las actualizaciones de incertidumbre del GPS se detuvieron: %@";
@@ -146,6 +150,8 @@
 "OPERATING_SYSTEM" = "Sistema operativo";
 "PAIR" = "Emparejar";
 "PAIRING" = "Emparejamiento";
+"PAIRING_FORGOTTEN_LOCALLY" = "Emparejamiento olvidado localmente";
+"PAIRING_FORGOTTEN_LOCALLY_MESSAGE" = "Se eliminaron las credenciales de emparejamiento locales, pero no se pudo contactar con el dispositivo para revocar la confianza almacenada.";
 "PAIRING_RESTORED" = "Se ha restaurado el registro de emparejamiento guardado.";
 "PAIR_CODE_MESSAGE" = "Introduce el código de seis dígitos que muestra LocationSpoofer.";
 "PAIR_DEVICE" = "Emparejar o restaurar emparejamiento";

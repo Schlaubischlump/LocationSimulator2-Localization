@@ -80,6 +80,10 @@
 "FOCUS_MAP" = "Karte zentrieren";
 "FOCUS_LOCATION" = "Standort fokussieren";
 "FOCUS_SIMULATED" = "Simulierten Standort fokussieren";
+"FORGET" = "Vergessen";
+"FORGET_PAIRING" = "Kopplung vergessen…";
+"FORGET_PAIRING_TITLE" = "Gerätekopplung vergessen?";
+"FORGET_PAIRING_MESSAGE" = "Die App versucht, diese Kopplung auf dem Gerät zu widerrufen, und entfernt anschließend die lokalen Zugangsdaten. Um das Gerät erneut zu koppeln, verbinde es über USB und entsperre es.";
 "FINANCIAL_SUPPORT" = "Finanzielle Unterstützung";
 "GENERAL" = "Allgemein";
 "GPS_UNCERTAINTY_FAILED" = "Aktualisierungen der GPS-Ungenauigkeit wurden gestoppt: %@";
@@ -151,6 +155,8 @@
 "OPERATING_SYSTEM" = "Betriebssystem";
 "PAIR" = "Koppeln";
 "PAIRING" = "Kopplung";
+"PAIRING_FORGOTTEN_LOCALLY" = "Kopplung lokal vergessen";
+"PAIRING_FORGOTTEN_LOCALLY_MESSAGE" = "Die lokalen Kopplungsdaten wurden entfernt, aber das Gerät konnte nicht erreicht werden, um die dort gespeicherte Vertrauensstellung zu widerrufen.";
 "PAIRING_RESTORED" = "Der gespeicherte Kopplungseintrag wurde wiederhergestellt.";
 "PAIR_CODE_MESSAGE" = "Gib den sechsstelligen Code ein, der in LocationSpoofer angezeigt wird.";
 "PAIR_DEVICE" = "Koppeln oder Kopplung wiederherstellen";
