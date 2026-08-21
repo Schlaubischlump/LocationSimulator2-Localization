@@ -168,6 +168,7 @@
 "REQUEST_CONFIRMATION" = "请求确认";
 "RESET" = "还原";
 "RESET_LOCATION" = "还原位置";
+"RESET_TRAVELED_DISTANCE" = "重置已行进距离";
 "RESET_LOCATION_MESSAGE" = "设备将恢复使用其实际位置。";
 "RESET_LOCATION_TITLE" = "还原模拟位置？";
 "RESET_SIMULATED" = "还原模拟位置";

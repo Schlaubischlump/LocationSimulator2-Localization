@@ -168,6 +168,7 @@
 "REQUEST_CONFIRMATION" = "Richiedi conferma";
 "RESET" = "Ripristina";
 "RESET_LOCATION" = "Ripristina posizione";
+"RESET_TRAVELED_DISTANCE" = "Reimposta distanza percorsa";
 "RESET_LOCATION_MESSAGE" = "Il dispositivo tornerà a usare la propria posizione reale.";
 "RESET_LOCATION_TITLE" = "Ripristinare la posizione simulata?";
 "RESET_SIMULATED" = "Ripristina posizione simulata";

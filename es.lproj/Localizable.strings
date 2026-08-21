@@ -168,6 +168,7 @@
 "REQUEST_CONFIRMATION" = "Solicitar confirmación";
 "RESET" = "Restablecer";
 "RESET_LOCATION" = "Restablecer ubicación";
+"RESET_TRAVELED_DISTANCE" = "Restablecer distancia recorrida";
 "RESET_LOCATION_MESSAGE" = "El dispositivo volverá a usar su ubicación real.";
 "RESET_LOCATION_TITLE" = "¿Restablecer ubicación simulada?";
 "RESET_SIMULATED" = "Restablecer ubicación simulada";

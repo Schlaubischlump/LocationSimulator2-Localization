@@ -168,6 +168,7 @@
 "REQUEST_CONFIRMATION" = "Begär bekräftelse";
 "RESET" = "Nollställ";
 "RESET_LOCATION" = "Nollställ plats";
+"RESET_TRAVELED_DISTANCE" = "Nollställ tillryggalagd sträcka";
 "RESET_LOCATION_MESSAGE" = "Enheten börjar använda sin verkliga plats igen.";
 "RESET_LOCATION_TITLE" = "Nollställa simulerad plats?";
 "RESET_SIMULATED" = "Nollställ simulerad plats";

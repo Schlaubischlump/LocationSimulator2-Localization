@@ -168,6 +168,7 @@
 "REQUEST_CONFIRMATION" = "Vraag bevestiging";
 "RESET" = "Stel opnieuw in";
 "RESET_LOCATION" = "Stel locatie opnieuw in";
+"RESET_TRAVELED_DISTANCE" = "Afgelegde afstand resetten";
 "RESET_LOCATION_MESSAGE" = "Het apparaat gebruikt weer de werkelijke locatie.";
 "RESET_LOCATION_TITLE" = "Gesimuleerde locatie opnieuw instellen?";
 "RESET_SIMULATED" = "Stel gesimuleerde locatie opnieuw in";

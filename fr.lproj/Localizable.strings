@@ -168,6 +168,7 @@
 "REQUEST_CONFIRMATION" = "Demander la confirmation";
 "RESET" = "Réinitialiser";
 "RESET_LOCATION" = "Réinitialiser la position";
+"RESET_TRAVELED_DISTANCE" = "Réinitialiser la distance parcourue";
 "RESET_LOCATION_MESSAGE" = "L’appareil utilisera de nouveau sa position réelle.";
 "RESET_LOCATION_TITLE" = "Réinitialiser la position simulée ?";
 "RESET_SIMULATED" = "Réinitialiser la position simulée";

@@ -168,6 +168,7 @@
 "REQUEST_CONFIRMATION" = "要求確認";
 "RESET" = "重置";
 "RESET_LOCATION" = "重置位置";
+"RESET_TRAVELED_DISTANCE" = "重設已行進距離";
 "RESET_LOCATION_MESSAGE" = "裝置將恢復使用其實際位置。";
 "RESET_LOCATION_TITLE" = "重置模擬位置？";
 "RESET_SIMULATED" = "重置模擬位置";

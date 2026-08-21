@@ -173,6 +173,7 @@
 "REQUEST_CONFIRMATION" = "Bestätigung anfordern";
 "RESET" = "Zurücksetzen";
 "RESET_LOCATION" = "Standort zurücksetzen";
+"RESET_TRAVELED_DISTANCE" = "Zurückgelegte Strecke zurücksetzen";
 "RESET_LOCATION_MESSAGE" = "Das Gerät verwendet wieder seinen tatsächlichen Standort.";
 "RESET_LOCATION_TITLE" = "Simulierten Standort zurücksetzen?";
 "RESET_SIMULATED" = "Simulierten Standort zurücksetzen";

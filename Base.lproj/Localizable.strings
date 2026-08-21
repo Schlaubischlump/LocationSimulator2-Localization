@@ -168,6 +168,7 @@
 "REQUEST_CONFIRMATION" = "Request Confirmation";
 "RESET" = "Reset";
 "RESET_LOCATION" = "Reset Location";
+"RESET_TRAVELED_DISTANCE" = "Reset Traveled Distance";
 "RESET_LOCATION_MESSAGE" = "The device will resume using its actual location.";
 "RESET_LOCATION_TITLE" = "Reset Simulated Location?";
 "RESET_SIMULATED" = "Reset Simulated Location";

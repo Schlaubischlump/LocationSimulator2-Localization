@@ -167,6 +167,7 @@
 "REQUEST_CONFIRMATION" = "Vyžádat potvrzení";
 "RESET" = "Obnovit";
 "RESET_LOCATION" = "Obnovit polohu";
+"RESET_TRAVELED_DISTANCE" = "Vynulovat ujetou vzdálenost";
 "RESET_LOCATION_MESSAGE" = "Zařízení začne znovu používat svou skutečnou polohu.";
 "RESET_LOCATION_TITLE" = "Obnovit simulovanou polohu?";
 "RESET_SIMULATED" = "Obnovit simulovanou polohu";
