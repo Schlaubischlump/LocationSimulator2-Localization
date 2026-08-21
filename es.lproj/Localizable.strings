@@ -34,6 +34,7 @@
 "CONNECTING_HELPER" = "Conectando con %@…";
 "CONNECTION" = "Conexión";
 "CONNECTION_FAILED" = "No se pudo conectar";
+"BACKEND_CONNECTION_LOST" = "Se perdió la conexión con LocationSpoofer.";
 "CONTINUE" = "Continuar";
 "CONTACT_SUPPORT" = "Contactar con soporte…";
 "COORDINATE_RANGE_MESSAGE" = "La latitud debe estar entre −90 y 90, y la longitud entre −180 y 180.";

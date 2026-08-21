@@ -33,6 +33,7 @@
 "CONNECTING_HELPER" = "Připojování k %@…";
 "CONNECTION" = "Připojení";
 "CONNECTION_FAILED" = "Připojení se nezdařilo";
+"BACKEND_CONNECTION_LOST" = "Připojení k aplikaci LocationSpoofer bylo přerušeno.";
 "CONTINUE" = "Pokračovat";
 "CONTACT_SUPPORT" = "Kontaktovat podporu…";
 "COORDINATE_RANGE_MESSAGE" = "Zeměpisná šířka musí být mezi −90 a 90 a zeměpisná délka mezi −180 a 180.";

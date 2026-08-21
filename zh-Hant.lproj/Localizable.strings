@@ -34,6 +34,7 @@
 "CONNECTING_HELPER" = "正在連線至 %@…";
 "CONNECTION" = "連線";
 "CONNECTION_FAILED" = "無法連線";
+"BACKEND_CONNECTION_LOST" = "與 LocationSpoofer 的連線已中斷。";
 "CONTINUE" = "繼續";
 "CONTACT_SUPPORT" = "聯絡支援…";
 "COORDINATE_RANGE_MESSAGE" = "緯度必須介於 −90 和 90 之間；經度必須介於 −180 和 180 之間。";

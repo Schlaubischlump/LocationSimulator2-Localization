@@ -39,6 +39,7 @@
 "CONNECTING_HELPER" = "Verbindung mit %@ wird hergestellt…";
 "CONNECTION" = "Verbindung";
 "CONNECTION_FAILED" = "Verbindung nicht möglich";
+"BACKEND_CONNECTION_LOST" = "Die Verbindung zu LocationSpoofer wurde unterbrochen.";
 "CONTINUE" = "Fortfahren";
 "CONTACT_SUPPORT" = "Support kontaktieren…";
 "COORDINATE_RANGE_MESSAGE" = "Der Breitengrad muss zwischen −90 und 90 liegen, der Längengrad zwischen −180 und 180.";

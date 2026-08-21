@@ -34,6 +34,7 @@
 "CONNECTING_HELPER" = "Connexion à %@…";
 "CONNECTION" = "Connexion";
 "CONNECTION_FAILED" = "Connexion impossible";
+"BACKEND_CONNECTION_LOST" = "La connexion à LocationSpoofer a été interrompue.";
 "CONTINUE" = "Continuer";
 "CONTACT_SUPPORT" = "Contacter l’assistance…";
 "COORDINATE_RANGE_MESSAGE" = "La latitude doit être comprise entre −90 et 90, et la longitude entre −180 et 180.";

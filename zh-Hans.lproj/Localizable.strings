@@ -34,6 +34,7 @@
 "CONNECTING_HELPER" = "正在连接 %@…";
 "CONNECTION" = "连接";
 "CONNECTION_FAILED" = "无法连接";
+"BACKEND_CONNECTION_LOST" = "与 LocationSpoofer 的连接已中断。";
 "CONTINUE" = "继续";
 "CONTACT_SUPPORT" = "联系支持…";
 "COORDINATE_RANGE_MESSAGE" = "纬度必须介于 −90 和 90 之间；经度必须介于 −180 和 180 之间。";

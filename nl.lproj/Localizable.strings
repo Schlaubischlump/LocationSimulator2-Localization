@@ -34,6 +34,7 @@
 "CONNECTING_HELPER" = "Verbinden met %@…";
 "CONNECTION" = "Verbinding";
 "CONNECTION_FAILED" = "Kan geen verbinding maken";
+"BACKEND_CONNECTION_LOST" = "De verbinding met LocationSpoofer is verbroken.";
 "CONTINUE" = "Ga door";
 "CONTACT_SUPPORT" = "Contact opnemen met ondersteuning…";
 "COORDINATE_RANGE_MESSAGE" = "De breedtegraad moet tussen −90 en 90 liggen en de lengtegraad tussen −180 en 180.";
