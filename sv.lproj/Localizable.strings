@@ -249,3 +249,12 @@
 "PERSONALIZED" = "Personanpassad";
 "REVISION" = "Revision";
 "SELECT_IMAGE_FILES" = "Välj avbildsfiler";
+"CHECKING_HELPER" = "Kontrollerar LocationSpoofer…";
+"LAUNCH_HELPER" = "Starta LocationSpoofer";
+"UPDATE_HELPER" = "Uppdatera LocationSpoofer";
+"HELPER_UPDATE_REQUIRED" = "LocationSpoofer måste uppdateras";
+"HELPER_PROTOCOL_MISMATCH" = "Denna LocationSpoofer använder protokollversion %lld, men LocationSimulator kräver version %lld. Uppdatera LocationSpoofer för att ansluta.";
+"HELPER_PROTOCOL_DISABLED" = "Inaktiverad — protokollversion %lld är inkompatibel; uppdatera LocationSpoofer.";
+"HELPER_PROTOCOL_UNKNOWN" = "Inaktiverad — denna LocationSpoofer rapporterar ingen kompatibel protokollversion.";
+"HELPER_PROTOCOL_EXPLANATION" = "Inaktiverade LocationSpoofer-instanser använder ett inkompatibelt protokoll och måste uppdateras före anslutning.";
+"NOT_NOW" = "Inte nu";

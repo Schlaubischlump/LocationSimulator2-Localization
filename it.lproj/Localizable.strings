@@ -249,3 +249,12 @@
 "PERSONALIZED" = "Personalizzata";
 "REVISION" = "Revisione";
 "SELECT_IMAGE_FILES" = "Seleziona file immagine";
+"CHECKING_HELPER" = "Verifica di LocationSpoofer…";
+"LAUNCH_HELPER" = "Avvia LocationSpoofer";
+"UPDATE_HELPER" = "Aggiorna LocationSpoofer";
+"HELPER_UPDATE_REQUIRED" = "Aggiornamento di LocationSpoofer richiesto";
+"HELPER_PROTOCOL_MISMATCH" = "Questo LocationSpoofer usa la versione del protocollo %lld, ma LocationSimulator richiede la versione %lld. Aggiorna LocationSpoofer per connetterti.";
+"HELPER_PROTOCOL_DISABLED" = "Disabilitato — la versione del protocollo %lld non è compatibile; aggiorna LocationSpoofer.";
+"HELPER_PROTOCOL_UNKNOWN" = "Disabilitato — questo LocationSpoofer non segnala una versione del protocollo compatibile.";
+"HELPER_PROTOCOL_EXPLANATION" = "Le istanze di LocationSpoofer disabilitate usano un protocollo incompatibile e devono essere aggiornate prima della connessione.";
+"NOT_NOW" = "Non ora";

@@ -249,3 +249,12 @@
 "PERSONALIZED" = "个性化";
 "REVISION" = "修订版本";
 "SELECT_IMAGE_FILES" = "选择映像文件";
+"CHECKING_HELPER" = "正在检查 LocationSpoofer…";
+"LAUNCH_HELPER" = "启动 LocationSpoofer";
+"UPDATE_HELPER" = "更新 LocationSpoofer";
+"HELPER_UPDATE_REQUIRED" = "需要更新 LocationSpoofer";
+"HELPER_PROTOCOL_MISMATCH" = "此 LocationSpoofer 使用协议版本 %lld，但 LocationSimulator 需要版本 %lld。请更新 LocationSpoofer 后再连接。";
+"HELPER_PROTOCOL_DISABLED" = "已停用 — 协议版本 %lld 不兼容；请更新 LocationSpoofer。";
+"HELPER_PROTOCOL_UNKNOWN" = "已停用 — 此 LocationSpoofer 未报告兼容的协议版本。";
+"HELPER_PROTOCOL_EXPLANATION" = "停用的 LocationSpoofer 实例使用不兼容的协议，必须更新后才能连接。";
+"NOT_NOW" = "暂不";

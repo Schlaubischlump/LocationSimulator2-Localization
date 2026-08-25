@@ -248,3 +248,12 @@
 "PERSONALIZED" = "Personalizovaný";
 "REVISION" = "Revize";
 "SELECT_IMAGE_FILES" = "Vybrat soubory obrazu";
+"CHECKING_HELPER" = "Kontrola aplikace LocationSpoofer…";
+"LAUNCH_HELPER" = "Spustit LocationSpoofer";
+"UPDATE_HELPER" = "Aktualizovat LocationSpoofer";
+"HELPER_UPDATE_REQUIRED" = "Je vyžadována aktualizace LocationSpooferu";
+"HELPER_PROTOCOL_MISMATCH" = "Tento LocationSpoofer používá verzi protokolu %lld, ale LocationSimulator vyžaduje verzi %lld. Aktualizujte LocationSpoofer, abyste se mohli připojit.";
+"HELPER_PROTOCOL_DISABLED" = "Zakázáno — verze protokolu %lld není kompatibilní; aktualizujte LocationSpoofer.";
+"HELPER_PROTOCOL_UNKNOWN" = "Zakázáno — tento LocationSpoofer nehlásí kompatibilní verzi protokolu.";
+"HELPER_PROTOCOL_EXPLANATION" = "Zakázané instance LocationSpooferu používají nekompatibilní protokol a před připojením je nutné je aktualizovat.";
+"NOT_NOW" = "Teď ne";

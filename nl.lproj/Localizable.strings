@@ -249,3 +249,12 @@
 "PERSONALIZED" = "Gepersonaliseerd";
 "REVISION" = "Revisie";
 "SELECT_IMAGE_FILES" = "Selecteer imagebestanden";
+"CHECKING_HELPER" = "LocationSpoofer controleren…";
+"LAUNCH_HELPER" = "LocationSpoofer starten";
+"UPDATE_HELPER" = "LocationSpoofer bijwerken";
+"HELPER_UPDATE_REQUIRED" = "LocationSpoofer-update vereist";
+"HELPER_PROTOCOL_MISMATCH" = "Deze LocationSpoofer gebruikt protocolversie %lld, maar LocationSimulator vereist versie %lld. Werk LocationSpoofer bij om verbinding te maken.";
+"HELPER_PROTOCOL_DISABLED" = "Uitgeschakeld — protocolversie %lld is incompatibel; werk LocationSpoofer bij.";
+"HELPER_PROTOCOL_UNKNOWN" = "Uitgeschakeld — deze LocationSpoofer meldt geen compatibele protocolversie.";
+"HELPER_PROTOCOL_EXPLANATION" = "Uitgeschakelde LocationSpoofer-instanties gebruiken een incompatibel protocol en moeten vóór het verbinden worden bijgewerkt.";
+"NOT_NOW" = "Niet nu";

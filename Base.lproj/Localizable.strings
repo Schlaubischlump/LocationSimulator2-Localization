@@ -251,3 +251,12 @@
 "PERSONALIZED" = "Personalized";
 "REVISION" = "Revision";
 "SELECT_IMAGE_FILES" = "Select Image Files";
+"CHECKING_HELPER" = "Checking LocationSpoofer…";
+"LAUNCH_HELPER" = "Launch LocationSpoofer";
+"UPDATE_HELPER" = "Update LocationSpoofer";
+"HELPER_UPDATE_REQUIRED" = "LocationSpoofer Update Required";
+"HELPER_PROTOCOL_MISMATCH" = "This LocationSpoofer uses protocol version %lld, but LocationSimulator requires version %lld. Update LocationSpoofer to connect.";
+"HELPER_PROTOCOL_DISABLED" = "Disabled — protocol version %lld is incompatible; update LocationSpoofer.";
+"HELPER_PROTOCOL_UNKNOWN" = "Disabled — this LocationSpoofer does not report a compatible protocol version.";
+"HELPER_PROTOCOL_EXPLANATION" = "Disabled LocationSpoofer instances use an incompatible protocol and must be updated before connecting.";
+"NOT_NOW" = "Not Now";
