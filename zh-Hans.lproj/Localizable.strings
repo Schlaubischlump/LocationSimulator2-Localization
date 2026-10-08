@@ -172,7 +172,10 @@
 "RESET_LOCATION_MESSAGE" = "设备将恢复使用其实际位置。";
 "RESET_LOCATION_TITLE" = "还原模拟位置？";
 "RESET_SIMULATED" = "还原模拟位置";
-"REVERSE_ROUTE" = "在目的地反转路线";
+"ROUTE_REPEAT" = "路线重复模式";
+"ROUTE_REPEAT_OFF" = "关闭";
+"ROUTE_REPEAT_LOOP" = "循环";
+"ROUTE_REPEAT_AUTOREVERSE" = "自动往返";
 "ROUTE_ACTIONS" = "路线操作";
 "ROUTE_NUMBER" = "路线 %lld";
 "ROUTE_POINTS" = "%lld 个路线点";

@@ -172,7 +172,10 @@
 "RESET_LOCATION_MESSAGE" = "Enheten börjar använda sin verkliga plats igen.";
 "RESET_LOCATION_TITLE" = "Nollställa simulerad plats?";
 "RESET_SIMULATED" = "Nollställ simulerad plats";
-"REVERSE_ROUTE" = "Vänd rutten vid destinationen";
+"ROUTE_REPEAT" = "Upprepa rutt";
+"ROUTE_REPEAT_OFF" = "Av";
+"ROUTE_REPEAT_LOOP" = "Slinga";
+"ROUTE_REPEAT_AUTOREVERSE" = "Vänd automatiskt";
 "ROUTE_ACTIONS" = "Ruttåtgärder";
 "ROUTE_NUMBER" = "Rutt %lld";
 "ROUTE_POINTS" = "%lld ruttpunkter";

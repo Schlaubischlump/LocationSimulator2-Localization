@@ -172,7 +172,10 @@
 "RESET_LOCATION_MESSAGE" = "Het apparaat gebruikt weer de werkelijke locatie.";
 "RESET_LOCATION_TITLE" = "Gesimuleerde locatie opnieuw instellen?";
 "RESET_SIMULATED" = "Stel gesimuleerde locatie opnieuw in";
-"REVERSE_ROUTE" = "Keer route om bij bestemming";
+"ROUTE_REPEAT" = "Routeherhaling";
+"ROUTE_REPEAT_OFF" = "Uit";
+"ROUTE_REPEAT_LOOP" = "Lus";
+"ROUTE_REPEAT_AUTOREVERSE" = "Automatisch omkeren";
 "ROUTE_ACTIONS" = "Routeacties";
 "ROUTE_NUMBER" = "Route %lld";
 "ROUTE_POINTS" = "%lld routepunten";

@@ -172,7 +172,10 @@
 "RESET_LOCATION_MESSAGE" = "L’appareil utilisera de nouveau sa position réelle.";
 "RESET_LOCATION_TITLE" = "Réinitialiser la position simulée ?";
 "RESET_SIMULATED" = "Réinitialiser la position simulée";
-"REVERSE_ROUTE" = "Inverser l’itinéraire à l’arrivée";
+"ROUTE_REPEAT" = "Répétition de l’itinéraire";
+"ROUTE_REPEAT_OFF" = "Désactivée";
+"ROUTE_REPEAT_LOOP" = "En boucle";
+"ROUTE_REPEAT_AUTOREVERSE" = "Aller-retour";
 "ROUTE_ACTIONS" = "Actions d’itinéraire";
 "ROUTE_NUMBER" = "Itinéraire %lld";
 "ROUTE_POINTS" = "%lld points d’itinéraire";

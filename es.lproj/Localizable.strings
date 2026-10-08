@@ -172,7 +172,10 @@
 "RESET_LOCATION_MESSAGE" = "El dispositivo volverá a usar su ubicación real.";
 "RESET_LOCATION_TITLE" = "¿Restablecer ubicación simulada?";
 "RESET_SIMULATED" = "Restablecer ubicación simulada";
-"REVERSE_ROUTE" = "Invertir ruta al llegar";
+"ROUTE_REPEAT" = "Repetición de ruta";
+"ROUTE_REPEAT_OFF" = "Desactivada";
+"ROUTE_REPEAT_LOOP" = "Bucle";
+"ROUTE_REPEAT_AUTOREVERSE" = "Ida y vuelta";
 "ROUTE_ACTIONS" = "Acciones de ruta";
 "ROUTE_NUMBER" = "Ruta %lld";
 "ROUTE_POINTS" = "%lld puntos de ruta";

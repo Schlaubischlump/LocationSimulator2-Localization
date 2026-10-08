@@ -171,7 +171,10 @@
 "RESET_LOCATION_MESSAGE" = "Zařízení začne znovu používat svou skutečnou polohu.";
 "RESET_LOCATION_TITLE" = "Obnovit simulovanou polohu?";
 "RESET_SIMULATED" = "Obnovit simulovanou polohu";
-"REVERSE_ROUTE" = "Obrátit trasu v cíli";
+"ROUTE_REPEAT" = "Opakování trasy";
+"ROUTE_REPEAT_OFF" = "Vypnuto";
+"ROUTE_REPEAT_LOOP" = "Smyčka";
+"ROUTE_REPEAT_AUTOREVERSE" = "Automaticky obrátit";
 "ROUTE_ACTIONS" = "Akce trasy";
 "ROUTE_NUMBER" = "Trasa %lld";
 "ROUTE_POINTS" = "%lld bodů trasy";
