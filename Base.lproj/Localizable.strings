@@ -263,3 +263,11 @@
 "HELPER_PROTOCOL_UNKNOWN" = "Disabled — this LocationSpoofer does not report a compatible protocol version.";
 "HELPER_PROTOCOL_EXPLANATION" = "Disabled LocationSpoofer instances use an incompatible protocol and must be updated before connecting.";
 "NOT_NOW" = "Not Now";
+
+/* Cryptex developer images */
+"CRYPTEX" = "Cryptex";
+"PREPARING_IMAGE" = "Preparing developer image";
+
+"DEVELOPER_IMAGE" = "Developer Image";
+
+"IMAGE_NOT_MOUNTED" = "Not mounted";

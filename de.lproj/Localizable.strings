@@ -266,3 +266,11 @@
 "HELPER_PROTOCOL_UNKNOWN" = "Deaktiviert — dieser LocationSpoofer meldet keine kompatible Protokollversion.";
 "HELPER_PROTOCOL_EXPLANATION" = "Deaktivierte LocationSpoofer-Instanzen verwenden ein inkompatibles Protokoll und müssen vor dem Verbinden aktualisiert werden.";
 "NOT_NOW" = "Nicht jetzt";
+
+/* Cryptex developer images */
+"CRYPTEX" = "Cryptex";
+"PREPARING_IMAGE" = "Entwickler-Image wird vorbereitet";
+
+"DEVELOPER_IMAGE" = "Entwickler-Image";
+
+"IMAGE_NOT_MOUNTED" = "Nicht eingebunden";

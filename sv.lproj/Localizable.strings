@@ -261,3 +261,11 @@
 "HELPER_PROTOCOL_UNKNOWN" = "Inaktiverad — denna LocationSpoofer rapporterar ingen kompatibel protokollversion.";
 "HELPER_PROTOCOL_EXPLANATION" = "Inaktiverade LocationSpoofer-instanser använder ett inkompatibelt protokoll och måste uppdateras före anslutning.";
 "NOT_NOW" = "Inte nu";
+
+/* Cryptex developer images */
+"CRYPTEX" = "Cryptex";
+"PREPARING_IMAGE" = "Förbereder utvecklaravbildning";
+
+"DEVELOPER_IMAGE" = "Utvecklaravbildning";
+
+"IMAGE_NOT_MOUNTED" = "Inte monterad";

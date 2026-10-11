@@ -261,3 +261,11 @@
 "HELPER_PROTOCOL_UNKNOWN" = "已停用 — 此 LocationSpoofer 未回報相容的通訊協定版本。";
 "HELPER_PROTOCOL_EXPLANATION" = "停用的 LocationSpoofer 實例使用不相容的通訊協定，必須更新後才能連線。";
 "NOT_NOW" = "稍後";
+
+/* Cryptex developer images */
+"CRYPTEX" = "Cryptex";
+"PREPARING_IMAGE" = "正在準備開發者映像檔";
+
+"DEVELOPER_IMAGE" = "開發者映像檔";
+
+"IMAGE_NOT_MOUNTED" = "未掛載";

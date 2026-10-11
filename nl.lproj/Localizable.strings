@@ -261,3 +261,11 @@
 "HELPER_PROTOCOL_UNKNOWN" = "Uitgeschakeld — deze LocationSpoofer meldt geen compatibele protocolversie.";
 "HELPER_PROTOCOL_EXPLANATION" = "Uitgeschakelde LocationSpoofer-instanties gebruiken een incompatibel protocol en moeten vóór het verbinden worden bijgewerkt.";
 "NOT_NOW" = "Niet nu";
+
+/* Cryptex developer images */
+"CRYPTEX" = "Cryptex";
+"PREPARING_IMAGE" = "Ontwikkelaarsimage voorbereiden";
+
+"DEVELOPER_IMAGE" = "Ontwikkelaarsimage";
+
+"IMAGE_NOT_MOUNTED" = "Niet gekoppeld";

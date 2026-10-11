@@ -260,3 +260,11 @@
 "HELPER_PROTOCOL_UNKNOWN" = "Zakázáno — tento LocationSpoofer nehlásí kompatibilní verzi protokolu.";
 "HELPER_PROTOCOL_EXPLANATION" = "Zakázané instance LocationSpooferu používají nekompatibilní protokol a před připojením je nutné je aktualizovat.";
 "NOT_NOW" = "Teď ne";
+
+/* Cryptex developer images */
+"CRYPTEX" = "Cryptex";
+"PREPARING_IMAGE" = "Připravuje se vývojářský obraz";
+
+"DEVELOPER_IMAGE" = "Vývojářský obraz";
+
+"IMAGE_NOT_MOUNTED" = "Nepřipojeno";
